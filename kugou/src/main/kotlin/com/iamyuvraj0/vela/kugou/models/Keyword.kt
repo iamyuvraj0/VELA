@@ -1,0 +1,11 @@
+/*
+ * VELA (2026)
+ * VELA third-party attribution retained in THIRD_PARTY_NOTICES.md
+ * Licensed under GPL-3.0. See THIRD_PARTY_NOTICES.md for third-party attribution.
+ */
+
+
+
+package com.iamyuvraj0.vela.kugou.models
+
+data class Keyword(val title: String, val artist: String)

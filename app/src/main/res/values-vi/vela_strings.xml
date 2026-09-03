@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    Explore
+    <string name="local_history">C?c b?</string>
+    <string name="remote_history">T? xa</string>
+    <string name="charts">B?ng x?p h?ng</string>
+    <string name="back_button_desc">Tr? l?i</string>
+    No title
+    Unknown artist
+    Unknown item type
+    <string name="loading_charts">Dang t?i b?ng x?p h?ng.</string>
+    <string name="retry_button">Th? l?i</string>
+    Album cover
+    Top music videos
+    <string name="trending">Xu hu?ng</string>
+    <string name="weeks">Tu?n</string>
+    Months
+    <string name="years">Nam</string>
+    Continuous
+    Liked
+    Downloaded
+    My top
+    Cached
+    Sync playlist
+    Sync disabled
+    %1$d elements selected
+    Note: This allows for syncing with YouTube Music. This is NOT changeable later.
+    Generating image
+    Please wait
+    <string name="cancel">H?y</string>
+    Share lyrics
+    <string name="share_as_text">Chia s? du?i d?ng van b?n</string>
+    Share as image
+    <string name="max_selection_limit">Gi?i h?n l?a ch?n t?i da</string>
+    Share selected
+    Customize colors
+    More options
+    Text color
+    Secondary text color
+    Background color
+    Added to play next
+    Added to the queue
+    Remove from cache
+    <string name="select">Ch?n t?t c?</string>
+    Manage Tags
+    Add Tag
+    <string name="edit_tag">Ch?nh s?a Th?</string>
+    Tag Name
+    Tag Color
+    Choose Color
+    Tap to change color
+    Assign Tags
+    Assign to playlists
+    No tags available. Create one first.
+    Playlist Tags
+    Create and manage tags for organizing playlists
+    Like all
+    Dislike all
+    Date updated
+    Link copied to clipboard
+    <string name="starting_radio">Dang b?t d?u radio</string>
+    Now Playing
+    Close
+    Minimum Volume
+    Maximum Volume
+    Hide Player Thumbnail
+    Replace album artwork with app logo in player
+    Crop thumbnails to 1:1
+    Display YouTube thumbnails in square format instead of 16:9
+    <string name="show_tags_in_library">Hi?n th? th? trong thu vi?n</string>
+    <string name="show_tags_in_library_desc">Hi?n th? chip l?c th? trong thu vi?n</string>
+    Already in playlist:
+    <plurals name="n_element">
+        <item quantity="one">%d ph?n t?</item>
+        <item quantity="other">%d ph?n t?</item>
+    </plurals>
+    <plurals name="n_time">
+        <item quantity="one">%d l?n</item>
+        <item quantity="other">%d l?n</item>
+    </plurals>
+    5 seconds backward
+    5 seconds forward
+    +%1$d seconds forwards
+    -%1$d seconds backwards
+    Progressive seek
+    If enabled,  Adds up 5 extra seconds incrementally on each seek skip
+    Login settings
+    General settings
+    Player background style
+    <string name="follow_theme">Theo giao di?n</string>
+    <string name="gradient">Gradient</string>
+    Player design style
+    <string name="player_design_v1">C? di?n</string>
+    <string name="player_design_v2">Hi?n d?i</string>
+    <string name="player_design_v3">T?i gi?n</string>
+    <string name="player_design_v4">Di?n ?nh</string>
+    New mini player design
+    Blur
+    Coloring
+    Blur Gradient
+    Glow
+    Player button colors
+    <string name="default_style">M?c d?nh</string>
+    <string name="secondary_color_style">Ph?</string>
+    Enable squiggly slider
+    Enable swipe to change song
+    Swipe song to the left to add it to the queue or to the right to play it next
+    Change lyrics on click
+    Auto scroll lyrics
+    Lyrics text size
+    <string name="resume_autoscroll">Ti?p t?c T? d?ng cu?n</string>
+    Romanize japanese lyrics
+    Romanize korean lyrics
+    <string name="slim">M?ng</string>
+    <string name="slim_navbar">Thanh di?u hu?ng du?i m?ng</string>
+    Auto playlists
+    Show \"Liked\" playlist
+    Show \"Downloaded\" playlist
+    Show \"Top\" playlist
+    Show \"Cached\" playlist
+    <string name="google">Google</string>
+    <string name="discord">Discord</string>
+    <string name="advanced_login">Dang nh?p b?ng token</string>
+    <string name="token_hidden">Nh?n d? hi?n token</string>
+    Tap again to copy or edit
+    This is an ADVANCED login method. As an alternative to the web portal, you may directly enter or update your login token here. For example, this can speed up logging in on multiple devices. Please note that any invalid token formats the app fails to parse will not be accepted
+    Automatically sync with your YouTube Music account
+    Auto sync with account
+    More content
+    <string name="general">Chung</string>
+    <string name="proxy">Proxy</string>
+    <string name="default_lib_chips">Thay d?i chip thu vi?n m?c d?nh</string>
+    <string name="set_quick_picks">D?t l?a ch?n nhanh</string>
+    Based on last song listened
+    App language
+    Configure app languages
+    Couldn\'t find app language settings, please configure them manually
+    Open supported link by default
+    Configure supported links
+    Couldn\'t find supported links settings, please configure them manually
+    Preferred lyrics provider
+    <string name="audio_quality_max">T?i da (beta)</string>
+    <string name="enable_similar_content">B?t n?i dung tuong t?</string>
+    Automatically add more similar songs when the end of the queue is reached
+    Minimum playback duration
+    The minimum amount of a song that must be played before it is considered \"played\"
+    <string name="percentage_format">%d%%</string>
+    Minimum playback duration
+    Import a \"m3u\" playlists
+    Import a \"csv\" playlists
+    Note: Adding local songs to synced/remote playlists is unsupported. Any other combination is valid
+    Auto download on like
+    Automatically download songs when you like them
+    Mini player swipe sensitivity
+    Adjust how sensitive swipe gestures are for changing songs
+    <string name="sensitivity_percentage">%1$d%%</string>
+      Are you sure you want to clear all cached songs?
+      Are you sure you want to clear all cached image?
+      Are you sure you want to clear all downloads?
+    <string name="disable">T?t</string>
+    <string name="pause_remote_listen_history">T?m d?ng chia s? l?ch s? nghe v?i YouTube Music</string>
+    <string name="not_logged_in_youtube">Chua dang nh?p YouTube</string>
+    Open supported links
+    Couldn\'t open app settings
+    Release notes
+    <string name="all_time">T?t c? th?i gian</string>
+    <string name="past_24_hours">24 gi? qua</string>
+    <string name="past_week">Tu?n tru?c</string>
+    Past month
+    <string name="past_year">Nam tru?c</string>
+    My Top list length
+    <string name="history_duration">Th?i lu?ng l?ch s?</string>
+    Information
+    Description
+    <string name="numbers">S?</string>
+    Subscribers
+    <string name="views">Lu?t xem</string>
+    Likes
+    Dislikes
+    Subscribe
+    Subscribed
+    Playlist not found
+    The requested playlist could not be loaded
+    Empty Playlist
+    This playlist doesn\'t contain any songs
+    <plurals name="seconds">
+        1 second
+        %d seconds
+    </plurals>
+    Disable load more when repeat all
+    Don\'t auto load more songs and similar content when repeat all mode is enabled
+    User Interface
+    Privacy &amp; Security
+    Player &amp; Media
+    Player &amp; Content
+    <string name="settings_section_storage">Luu tr? &amp; D? li?u</string>
+    <string name="settings_section_system">H? th?ng &amp; Gi?i thi?u</string>
+    <string name="similar_content">N?i dung tuong t?</string>
+    Year in Music
+    Your %d Year in Music
+    <string name="total_listening_time">T?ng Th?i gian Nghe</string>
+    Top Songs
+    Top Artists
+    Share Summary
+    No listening data for this year
+    played
+    Custom Theme
+    <string name="import_theme">Nh?p Giao di?n</string>
+    <string name="export_theme">Xu?t Giao di?n</string>
+    Custom
+    Theme Creator
+    Tune colors, preview the result, then export or import.
+    <string name="theme_meta_title">Chi ti?t Giao di?n</string>
+    Name (optional)
+    Apply Theme
+    Theme applied
+    Theme exported
+    <string name="theme_export_failed">Xu?t th?t b?i</string>
+    Theme imported
+    <string name="theme_import_failed">Nh?p th?t b?i</string>
+    Can\'t import theme
+    Seed Colors
+    Primary
+    <string name="theme_seed_secondary">Ph?</string>
+    <string name="theme_seed_tertiary">B?c ba</string>
+    Neutral
+    %1$s Color
+    <string name="theme_editor_hex">Hex</string>
+    Hex value (#RRGGBB or #AARRGGBB)
+    Presets
+    <string name="theme_preview_trackline">M?t th? xem tru?c cao c?p</string>
+    Primary Action
+    Secondary Action
+    Copy
+    <string name="player_design_v5">Nh? nh?n</string>
+    Playback client
+    Controls which YouTube client is used to fetch streams
+    <string name="player_stream_client_android_vr">Android VR</string>
+    Streams directly without signature decryption, providing maximum speed. Suitable for the majority of users.
+    <string name="player_stream_client_web_remix">Web Remix</string>
+    Extended format support at the cost of speed. JavaScript signature decryption introduces a ~5–10 second startup delay.
+    Backup in progress
+    Restore in progress
+    Backing up settings
+    <string name="backup_step_checkpoint_database">Dang chu?n b? co s? d? li?u</string>
+    Copying %1$s
+    Verifying backup
+    Stopping playback
+    Restoring settings
+    Restoring %1$s
+    <string name="restore_step_restarting">Dang kh?i d?ng l?i ?ng d?ng</string>
+    <string name="canvas_cache">Canvas Cache</string>
+    <string name="canvas_cache_items">%d m?c</string>
+    <string name="canvas_cache_usage">%1$s / %2$s</string>
+    Clear canvas cache
+    Are you sure you want to clear all cached canvas?
+    This playlist was private
+    You don\'t have access to this playlist.
+    Crossfade
+    Smoothly transition between songs by fading out the end of each track.
+    <string name="audio_crossfade_dialog_title">Th?i gian chuy?n</string>
+</resources>

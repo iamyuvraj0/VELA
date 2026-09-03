@@ -1,0 +1,40 @@
+/*
+ * VELA (2026)
+ * VELA third-party attribution retained in THIRD_PARTY_NOTICES.md
+ * Licensed under GPL-3.0. See THIRD_PARTY_NOTICES.md for third-party attribution.
+ */
+
+
+
+package com.iamyuvraj0.vela.simpmusic.models
+
+import kotlinx.serialization.SerialName
+import kotlinx.serialization.Serializable
+
+@Serializable
+data class LyricsData(
+    val id: String? = null,
+    val videoId: String? = null,
+    @SerialName("songTitle")
+    val title: String? = null,
+    @SerialName("artistName")
+    val artist: String? = null,
+    @SerialName("albumName")
+    val album: String? = null,
+    @SerialName("durationSeconds")
+    val duration: Int? = null,
+    val syncedLyrics: String? = null,
+    @SerialName("plainLyric")
+    val plainLyrics: String? = null,
+    val richSyncLyrics: String? = null,
+    val vote: Int? = null,
+)
+
+@Serializable
+data class SimpMusicApiResponse(
+    val type: String? = null,
+    val data: List<LyricsData> = emptyList(),
+) {
+    val success: Boolean
+        get() = type == "success"
+}
